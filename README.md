@@ -11,7 +11,7 @@ Got bored and wanted to try making a self bot in python, 😳
 |    Step by Step Installation 		|
 | ------------------------------------ 	|
 | Start by getting your discordtoken・[Tutorial here](https://www.youtube.com/watch?v=YEgFvgg7ZPI&t=1s)	|
-| [Download](https://github.com/Rdimo/) this project as a zip, then extract it	|
+| [Download](https://github.com/Rdimo/Auto-Bumper/archive/refs/heads/master.zip) this project as a zip, then extract it	|
 | Run install_requirements.cmd to install the modules 	|
 | Open the folder in [visual studio code](https://code.visualstudio.com/Download#) or other editor of your choice and put in your token on line 22							|
 | Additionally if you want to you can change the prefix on line 4, by default it's * 	|
